@@ -4,7 +4,7 @@
 
 _Вторая проектная работа в курсе "Веб-разработчика". Здесь озвученны проблемы с которыми придется столкнуться новичку и их современные решения._
 
-_В данной проетной работе используются инструменты HTML и CSS_
+_В данной проектной работе используются инструменты HTML и CSS_
 
 <!--
 **EvelinaBoykova/EvelinaBoykova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
